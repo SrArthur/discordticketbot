@@ -1,0 +1,10 @@
+[17:46:50 17th M10 20] [Baimless BOT#0494] :> @here,
+@​S t a n has created a new ticket
+[17:46:50 17th M10 20] [Baimless BOT#0494] :> 
+https://cdn.discordapp.com/attachments/767126498318221313/767126501409030184/how-can-we-help.gif
+[17:46:50 17th M10 20] [Baimless BOT#0494] :> 
+[17:47:10 17th M10 20] [SrArthur#1337] :> consegue ver o ticket?
+[17:57:13 17th M10 20] [SrArthur#1337] :> -topic teste
+[17:57:14 17th M10 20] [Baimless BOT#0494] :> 
+[12:28:13 18th M10 20] [SrArthur#1337] :> -close
+[12:28:13 18th M10 20] [Baimless BOT#0494] :> 
